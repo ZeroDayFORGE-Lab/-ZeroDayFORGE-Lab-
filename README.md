@@ -1,147 +1,242 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ZeroDayFORGE+%2F%2F+Build.+Break.+Understand.;Systems+%7C+Security+%7C+Reverse+Engineering;Low-Level+Engineering+%26+Binary+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=ZeroDayFORGE+%2F%2F+Build.+Break.+Understand.;Security+Research+%7C+Systems+Engineering+%7C+Bug+Bounty;Reverse+Engineering+%7C+Binary+Analysis+%7C+Linux;Learning+Through+Research%2C+Labs+and+Experiments" />
 </p>
 
 <h1 align="center">Kaushik Kumar</h1>
 
 <p align="center">
-  <b>Systems Developer · Security Researcher · Reverse Engineering Enthusiast</b><br/>
-  <sub>Low-level engineering. Binary analysis. Practical security research.</sub>
+  <b>Security Researcher • Bug Bounty Hunter • Systems Developer</b><br>
+  <sub>Exploring systems, understanding software internals, and researching security vulnerabilities.</sub>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/zerodayforge">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ZeroDayFORGE-Lab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://medium.com/@ZeroDayForge">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://x.com/ZeroDayForge">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@ZeroDayForge-x3b">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://hackerone.com/zerodayforge">
+    <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>
+  </a>
+  <a href="https://bugcrowd.com/h/ZeroDayFOrge">
+    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+  </a>
+  <a href="https://yeswehack.com/hunters/profile/inferno10x1">
+    <img src="https://img.shields.io/badge/YesWeHack-FFB400?style=for-the-badge&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Who I Am
+# 🧠 About Me
 
-I'm a systems and security researcher focused on understanding software from the ground up — how it compiles, executes, and breaks.
+I am a security enthusiast focused on understanding how systems work internally, how software behaves at runtime, and how vulnerabilities emerge.
 
-My work lives at the intersection of **low-level programming**, **binary analysis**, and **security research**. I don't just read about vulnerabilities — I build labs, write tools, and document every experiment in depth.
+My interests span across:
 
-> *"You don't truly understand a system until you've broken it."*
+- Web Application Security
+- Bug Bounty Hunting
+- Reverse Engineering
+- Binary Analysis
+- Linux Internals
+- Systems Programming
+- Networking
+- Security Research
 
----
+I learn primarily through practical labs, research projects, CTF challenges, documentation, and hands-on experimentation.
 
-## 🎯 Core Focus Areas
-
-| Domain | What I Work On |
-|---|---|
-| 🔍 Reverse Engineering | ELF binaries, disassembly, static & dynamic analysis |
-| 💣 Exploit Development | Memory corruption fundamentals, shellcoding basics |
-| 🧬 OS & Memory Internals | Process memory layout, syscalls, kernel interaction |
-| 🌐 Networking | TCP/IP stack, raw sockets, protocol analysis |
-| ⚙️ Systems Programming | C/C++ tooling, Linux internals, automation |
-| 📡 Security Research | Attack surface mapping, vulnerability research |
+> **Build. Break. Understand. Improve. Repeat.**
 
 ---
 
-## 🛠️ Tech Stack
+# 🎯 Areas of Interest
 
-### Languages
+| Domain | Focus |
+|----------|----------|
+| 🌐 Web Security | OWASP Top 10, Authentication, Authorization |
+| 🔌 API Security | REST APIs, JWT, GraphQL |
+| 🎯 Bug Bounty | Reconnaissance, Vulnerability Discovery |
+| 🔍 Reverse Engineering | ELF Analysis, Disassembly, Debugging |
+| 💣 Binary Exploitation | Memory Corruption Fundamentals |
+| 🧬 Linux Internals | Processes, Syscalls, Memory Layout |
+| 🌐 Networking | TCP/IP, Protocol Analysis |
+| ⚙️ Systems Programming | C, C++, Linux Development |
+| 📡 Security Research | Vulnerability Analysis & Research |
+
+---
+
+# 🛠️ Tech Stack
+
+## Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Systems & Infrastructure
+## Operating Systems & Infrastructure
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Security & Analysis Tools
+## Security Tools
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-00549E?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🔬 Projects & Labs
+# 🔐 Security Skills
 
-### 🔹 [Bash Networking Toolkit](https://github.com/ZeroDayFORGE-Lab)
-> Automation scripts for network recon, diagnostics, and monitoring.
+### Web Application Security
 
-- 📡 Ping sweep & uptime monitoring
-- 🔍 Port scanning utilities
-- 🌐 DNS enumeration scripts
-- 📊 System resource monitoring automation
+- Authentication Testing
+- Authorization Testing
+- IDOR Discovery
+- XSS Testing
+- SSRF Testing
+- SQL Injection Testing
+- CSRF Analysis
+- Business Logic Testing
+- File Upload Security
+
+### API Security
+
+- REST API Assessment
+- JWT Security
+- GraphQL Testing
+- OAuth Fundamentals
+- Rate Limit Analysis
+
+### Reconnaissance & OSINT
+
+- Subdomain Enumeration
+- Asset Discovery
+- DNS Analysis
+- Technology Fingerprinting
+- Attack Surface Mapping
+
+### Reverse Engineering
+
+- ELF Analysis
+- GDB Debugging
+- Static Analysis
+- Dynamic Analysis
+- Assembly Fundamentals
 
 ---
 
-### 🔹 [Reverse Engineering Labs](https://github.com/ZeroDayFORGE-Lab)
-> Structured hands-on experiments in binary analysis and runtime behavior.
+# 🔬 Featured Projects
 
-- 🧬 ELF binary structure analysis
-- 🔎 GDB debugging workflows & memory inspection
-- 🛠️ Static vs dynamic analysis comparisons
-- 📝 Annotated disassembly walkthroughs
+## Bash Networking Toolkit
 
----
+Automation scripts for:
 
-### 🔹 [Security Research Notes](https://github.com/ZeroDayFORGE-Lab)
-> Documented research on vulnerabilities, exploit concepts, and system behavior.
-
-- 🗺️ Attack surface mapping methodology
-- 💥 Exploit technique breakdowns (educational)
-- 📋 CVE analysis & write-ups
-- 🧪 Lab-based PoC experiments
+- Network Diagnostics
+- Port Scanning
+- DNS Enumeration
+- Monitoring & Logging
+- Linux Administration Tasks
 
 ---
 
-## 📊 GitHub Stats
+## Reverse Engineering Labs
+
+Hands-on learning focused on:
+
+- ELF Internals
+- Program Execution Flow
+- Memory Inspection
+- GDB Debugging
+- Binary Analysis
+
+---
+
+## Security Research Notes
+
+Research repository covering:
+
+- Vulnerability Analysis
+- Attack Surface Mapping
+- CVE Research
+- Security Writeups
+- Practical Lab Experiments
+
+---
+
+# 🛡️ Bug Bounty Platforms
+
+| Platform | Profile |
+|-----------|-----------|
+| HackerOne | https://hackerone.com/zerodayforge |
+| Bugcrowd | https://bugcrowd.com/h/ZeroDayFOrge |
+| YesWeHack | https://yeswehack.com/hunters/profile/inferno10x1 |
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Web Application Security
+- Binary Exploitation
+- Linux Internals
+- Malware Analysis
+- Active Directory Security
+- Windows Internals
+- Cloud Security Fundamentals
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroDayFORGE-Lab&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroDayFORGE-Lab&show_icons=true&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroDayFORGE-Lab&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroDayFORGE-Lab&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDayFORGE-Lab&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDayFORGE-Lab&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📬 Let's Connect
-
-I'm open to collaborating on **security research**, **CTF challenges**, **systems tooling**, and **open-source projects**.
-
-Reach out on **[LinkedIn](https://linkedin.com/in/zerodayforge)** for professional inquiries, or drop a message via any platform below:
+# 📫 Connect With Me
 
 | Platform | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/zerodayforge](https://linkedin.com/in/zerodayforge) |
-| 🐙 GitHub | [github.com/ZeroDayFORGE-Lab](https://github.com/ZeroDayFORGE-Lab) |
-| ✍️ Medium | [@ZeroDayForge](https://medium.com/@ZeroDayForge) |
-| 🐦 X / Twitter | [@ZeroDayForge](https://x.com/ZeroDayForge) |
-| 📺 YouTube | [ZeroDayForge](https://youtube.com/@ZeroDayForge-x3b) |
+|-----------|-----------|
+| LinkedIn | https://linkedin.com/in/zerodayforge |
+| GitHub | https://github.com/ZeroDayFORGE-Lab |
+| Medium | https://medium.com/@ZeroDayForge |
+| X | https://x.com/ZeroDayForge |
+| YouTube | https://youtube.com/@ZeroDayForge-x3b |
+| HackerOne | https://hackerone.com/zerodayforge |
+| Bugcrowd | https://bugcrowd.com/h/ZeroDayFOrge |
+| YesWeHack | https://yeswehack.com/hunters/profile/inferno10x1 |
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
-
-<p align="center">
-  <sub><b>// Build · Break · Understand · Improve · Repeat //</b></sub>
+  <sub><b>ZeroDayFORGE // Build • Break • Understand • Improve • Repeat</b></sub>
 </p>
