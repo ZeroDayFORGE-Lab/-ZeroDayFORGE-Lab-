@@ -222,19 +222,27 @@ Research repository covering:
 
 ---
 
-# 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/zerodayforge">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-| Platform | Link |
-|-----------|-----------|
-| LinkedIn | https://linkedin.com/in/zerodayforge |
-| GitHub | https://github.com/ZeroDayFORGE-Lab |
-| Medium | https://medium.com/@ZeroDayForge |
-| X | https://x.com/ZeroDayForge |
-| YouTube | https://youtube.com/@ZeroDayForge-x3b |
-| HackerOne | https://hackerone.com/zerodayforge |
-| Bugcrowd | https://bugcrowd.com/h/ZeroDayFOrge |
-| YesWeHack | https://yeswehack.com/hunters/profile/inferno10x1 |
+  <a href="https://github.com/ZeroDayFORGE-Lab">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
+  <a href="https://medium.com/@ZeroDayForge">
+    <img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+
+  <a href="https://x.com/ZeroDayForge">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+
+  <a href="https://youtube.com/@ZeroDayForge-x3b">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</p>
 ---
 
 <p align="center">
