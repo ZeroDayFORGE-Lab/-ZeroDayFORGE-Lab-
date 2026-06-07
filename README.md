@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/68f8746802bcf1c8462e889e6e9302d4384f164b.svg" alt="Repo Activity" width="100%">
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/zerodayforge">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
