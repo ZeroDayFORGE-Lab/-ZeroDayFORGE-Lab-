@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZeroDayFORGE-Lab&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://repobeats.axiom.co/api/embed/8e23f2c4ca19d6845ec3125bb0accd19be48dab6.svg" alt="Repobeats analytics image" width="100%">
 </p>
 
 <p align="center">
