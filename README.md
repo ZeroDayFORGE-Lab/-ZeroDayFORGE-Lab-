@@ -1,4 +1,3 @@
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=ZeroDayFORGE+%2F%2F+Build.+Break.+Understand.;Security+Research+%7C+Systems+Engineering+%7C+Bug+Bounty;Reverse+Engineering+%7C+Binary+Analysis+%7C+Linux;Learning+Through+Research%2C+Labs+and+Experiments" />
 
 <h1 align="center">Kaushik Kumar</h1>
 
